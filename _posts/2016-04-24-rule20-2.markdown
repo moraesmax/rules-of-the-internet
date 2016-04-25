@@ -1,0 +1,10 @@
+---
+layout: rule
+title:  "#Rule 20-2"
+date:   2016-04-24 18:59:32 -0300
+categories: rules
+permalink: rule/20-2
+rule-title: "#20-2"
+rule-text: "Because nothing is a serious matter. Everything else isn't. No exceptions."
+description: "Rule #20-2 - Because nothing is a serious matter. Everything else isn't. No exceptions."
+---

@@ -1,0 +1,10 @@
+---
+layout: rule
+title:  "#Rule 21"
+date:   2016-04-24 18:59:29 -0300
+categories: rules
+permalink: rule/21
+rule-title: "#21"
+rule-text: "Original content is original only for a few seconds before getting old. "
+description: "Rule #21 - Original content is original only for a few seconds before getting old. "
+---
