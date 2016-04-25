@@ -5,7 +5,7 @@ layout: default
 <div class="home">
   <div class="rules">
     {% for post in site.posts %}
-    <a href="{{ post.url }}" class="rule">
+    <a href="{{ post.url | prepend: site.url }}" class="rule">
         <div class="number">
           {{ post.rule-title }}
         </div>
