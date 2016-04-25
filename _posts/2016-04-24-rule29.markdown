@@ -1,0 +1,10 @@
+---
+layout: rule
+title:  "#Rule 29"
+date:   2016-04-24 18:59:22 -0300
+categories: rules
+permalink: rule/29
+rule-title: "#29"
+rule-text: "In the internet all girls are men and all kids are undercover FBI agents."
+description: "Rule #29 - In the internet all girls are men and all kids are undercover FBI agents."
+---

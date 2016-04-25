@@ -1,0 +1,10 @@
+---
+layout: rule
+title:  "#Rule 23"
+date:   2016-04-24 18:59:27 -0300
+categories: rules
+permalink: rule/23
+rule-title: "#23"
+rule-text: "Copy 'n paste is made to ruin every last bit of originality."
+description: "Rule #23 - Copy 'n paste is made to ruin every last bit of originality."
+---

@@ -1,0 +1,10 @@
+---
+layout: rule
+title:  "#Rule 34-2"
+date:   2016-04-24 18:59:10 -0300
+categories: rules
+permalink: rule/34-2
+rule-title: "#34-2"
+rule-text: "There are ponies of it, no exceptions."
+description: "Rule #34-2 - There are ponies of it, no exceptions."
+---

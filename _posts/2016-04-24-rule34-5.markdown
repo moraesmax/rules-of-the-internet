@@ -1,0 +1,10 @@
+---
+layout: rule
+title:  "#Rule 34-5"
+date:   2016-04-24 18:59:06 -0300
+categories: rules
+permalink: rule/34-5
+rule-title: "#34-5"
+rule-text: "If it isn't in Minecraft, there is a crafting idea video of it."
+description: "Rule #34-5 - If it isn't in Minecraft, there is a crafting idea video of it."
+---

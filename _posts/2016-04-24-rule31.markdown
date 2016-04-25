@@ -1,0 +1,10 @@
+---
+layout: rule
+title:  "#Rule 31"
+date:   2016-04-24 18:59:18 -0300
+categories: rules
+permalink: rule/31
+rule-title: "#31"
+rule-text: "TITS or GTFO - the choice is yours."
+description: "Rule #31 - TITS or GTFO - the choice is yours."
+---

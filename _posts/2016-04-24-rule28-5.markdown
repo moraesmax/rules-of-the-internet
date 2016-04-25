@@ -1,0 +1,10 @@
+---
+layout: rule
+title:  "#Rule 28-5"
+date:   2016-04-24 18:59:23 -0300
+categories: rules
+permalink: rule/28-5
+rule-title: "#28-5"
+rule-text: "If it TRULY is a girl, then this is an INCEPTION!!! Only way out is to die, so look at Chuck Norris the wrong way."
+description: "Rule #28-5 - If it TRULY is a girl, then this is an INCEPTION!!! Only way out is to die, so look at Chuck Norris the wrong way."
+---

@@ -1,0 +1,10 @@
+---
+layout: rule
+title:  "#Rule 32-6"
+date:   2016-04-24 18:59:15 -0300
+categories: rules
+permalink: rule/32-6
+rule-title: "#32-6"
+rule-text: "I can tell from some of the pixels and from having seen a lot of shops in my day."
+description: "Rule #32-6 - I can tell from some of the pixels and from having seen a lot of shops in my day."
+---

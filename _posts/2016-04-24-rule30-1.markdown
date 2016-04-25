@@ -1,0 +1,10 @@
+---
+layout: rule
+title:  "#Rule 30-1"
+date:   2016-04-24 18:59:20 -0300
+categories: rules
+permalink: rule/30-1
+rule-title: "#30-1"
+rule-text: "Rule 30 only applies to the deep web."
+description: "Rule #30-1 - Rule 30 only applies to the deep web."
+---

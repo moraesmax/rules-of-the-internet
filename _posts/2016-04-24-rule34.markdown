@@ -1,0 +1,10 @@
+---
+layout: rule
+title:  "#Rule 34"
+date:   2016-04-24 18:59:11 -0300
+categories: rules
+permalink: rule/34
+rule-title: "#34"
+rule-text: "There is porn of it, no exceptions."
+description: "Rule #34 - There is porn of it, no exceptions."
+---

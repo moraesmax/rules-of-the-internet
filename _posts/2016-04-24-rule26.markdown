@@ -1,0 +1,10 @@
+---
+layout: rule
+title:  "#Rule 26"
+date:   2016-04-24 18:59:26 -0300
+categories: rules
+permalink: rule/26
+rule-title: "#26"
+rule-text: "Any topic can be turned into something totally unrelated. "
+description: "Rule #26 - Any topic can be turned into something totally unrelated. "
+---

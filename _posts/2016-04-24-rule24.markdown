@@ -1,0 +1,10 @@
+---
+layout: rule
+title:  "#Rule 24"
+date:   2016-04-24 18:59:26 -0300
+categories: rules
+permalink: rule/24
+rule-title: "#24"
+rule-text: "Every repost is always a repost of a repost. "
+description: "Rule #24 - Every repost is always a repost of a repost. "
+---

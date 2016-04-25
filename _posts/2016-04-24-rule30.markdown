@@ -1,0 +1,10 @@
+---
+layout: rule
+title:  "#Rule 30"
+date:   2016-04-24 18:59:21 -0300
+categories: rules
+permalink: rule/30
+rule-title: "#30"
+rule-text: "There are NO girls on the internet."
+description: "Rule #30 - There are NO girls on the internet."
+---

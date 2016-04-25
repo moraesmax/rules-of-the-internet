@@ -1,0 +1,10 @@
+---
+layout: rule
+title:  "#Rule 34-4x2"
+date:   2016-04-24 18:59:07 -0300
+categories: rules
+permalink: rule/34-4x2
+rule-title: "#34-4x2"
+rule-text: "If it exists, there is a Lego of it."
+description: "Rule #34-4x2 - If it exists, there is a Lego of it."
+---

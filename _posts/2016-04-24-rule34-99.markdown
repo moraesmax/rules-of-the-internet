@@ -1,0 +1,10 @@
+---
+layout: rule
+title:  "#Rule 34-99"
+date:   2016-04-24 18:59:01 -0300
+categories: rules
+permalink: rule/34-99
+rule-title: "#34-99"
+rule-text: "There is a mario paint composer version of it. "
+description: "Rule #34-99 - There is a mario paint composer version of it. "
+---

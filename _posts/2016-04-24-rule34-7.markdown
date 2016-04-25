@@ -1,0 +1,10 @@
+---
+layout: rule
+title:  "#Rule 34-7"
+date:   2016-04-24 18:59:04 -0300
+categories: rules
+permalink: rule/34-7
+rule-title: "#34-7"
+rule-text: "If it exists, there is a Pokemon based on it."
+description: "Rule #34-7 - If it exists, there is a Pokemon based on it."
+---

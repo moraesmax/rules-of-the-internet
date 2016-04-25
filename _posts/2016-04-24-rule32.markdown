@@ -1,0 +1,10 @@
+---
+layout: rule
+title:  "#Rule 32"
+date:   2016-04-24 18:59:17 -0300
+categories: rules
+permalink: rule/32
+rule-title: "#32"
+rule-text: "You must have pictures to prove your statements."
+description: "Rule #32 - You must have pictures to prove your statements."
+---

@@ -1,0 +1,10 @@
+---
+layout: rule
+title:  "#Rule 34-6"
+date:   2016-04-24 18:59:05 -0300
+categories: rules
+permalink: rule/34-6
+rule-title: "#34-6"
+rule-text: "If it exists, there is a parody of it on YouTube. "
+description: "Rule #34-6 - If it exists, there is a parody of it on YouTube. "
+---

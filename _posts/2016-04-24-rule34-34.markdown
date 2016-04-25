@@ -1,0 +1,10 @@
+---
+layout: rule
+title:  "#Rule 34-34"
+date:   2016-04-24 18:59:02 -0300
+categories: rules
+permalink: rule/34-34
+rule-title: "#34-34"
+rule-text: "Everything IRL is on the internet. "
+description: "Rule #34-34 - Everything IRL is on the internet. "
+---

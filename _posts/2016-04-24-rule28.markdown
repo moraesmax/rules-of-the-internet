@@ -1,0 +1,10 @@
+---
+layout: rule
+title:  "#Rule 28"
+date:   2016-04-24 18:59:24 -0300
+categories: rules
+permalink: rule/28
+rule-title: "#28"
+rule-text: "Always question a person's gender - just in case it's really a man."
+description: "Rule #28 - Always question a person's gender - just in case it's really a man."
+---

@@ -1,0 +1,10 @@
+---
+layout: rule
+title:  "#Rule 25"
+date:   2016-04-24 18:59:25 -0300
+categories: rules
+permalink: rule/25
+rule-title: "#25"
+rule-text: "Relation to the original topic decreases with every single post. "
+description: "Rule #25 - Relation to the original topic decreases with every single post. "
+---

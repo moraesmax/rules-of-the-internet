@@ -1,0 +1,10 @@
+---
+layout: rule
+title:  "#Rule 27"
+date:   2016-04-24 18:59:25 -0300
+categories: rules
+permalink: rule/27
+rule-title: "#27"
+rule-text: "Always question a person's sexual preferences without any real reason."
+description: "Rule #27 - Always question a person's sexual preferences without any real reason."
+---

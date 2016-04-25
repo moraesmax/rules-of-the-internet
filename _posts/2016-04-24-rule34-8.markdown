@@ -1,0 +1,10 @@
+---
+layout: rule
+title:  "#Rule 34-8"
+date:   2016-04-24 18:59:03 -0300
+categories: rules
+permalink: rule/34-8
+rule-title: "#34-8"
+rule-text: "There is dubstep of it, no exceptions. "
+description: "Rule #34-8 - There is dubstep of it, no exceptions. "
+---

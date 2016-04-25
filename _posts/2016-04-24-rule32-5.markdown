@@ -1,0 +1,10 @@
+---
+layout: rule
+title:  "#Rule 32-5"
+date:   2016-04-24 18:59:16 -0300
+categories: rules
+permalink: rule/32-5
+rule-title: "#32-5"
+rule-text: "All your pictures were obviously Photoshopped. No Exceptions."
+description: "Rule #32-5 - All your pictures were obviously Photoshopped. No Exceptions."
+---

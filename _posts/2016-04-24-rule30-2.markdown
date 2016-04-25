@@ -1,0 +1,10 @@
+---
+layout: rule
+title:  "#Rule 30-2"
+date:   2016-04-24 18:59:19 -0300
+categories: rules
+permalink: rule/30-2
+rule-title: "#30-2"
+rule-text: "If girls are found on the deep web, CODE RED, RED ALERT, ALL SYSTEMS BREACHED!"
+description: "Rule #30-2 - If girls are found on the deep web, CODE RED, RED ALERT, ALL SYSTEMS BREACHED!"
+---

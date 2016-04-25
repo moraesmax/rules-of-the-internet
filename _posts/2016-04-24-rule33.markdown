@@ -1,0 +1,10 @@
+---
+layout: rule
+title:  "#Rule 33"
+date:   2016-04-24 18:59:12 -0300
+categories: rules
+permalink: rule/33
+rule-title: "#33"
+rule-text: "Lurk more - it's never enough."
+description: "Rule #33 - Lurk more - it's never enough."
+---

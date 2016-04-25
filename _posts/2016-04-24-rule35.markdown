@@ -1,0 +1,10 @@
+---
+layout: rule
+title:  "#Rule 35"
+date:   2016-04-24 18:58:00 -0300
+categories: rules
+permalink: rule/35
+rule-title: "#35"
+rule-text: "If no porn is found of it, it will be made. "
+description: "Rule #35 - If no porn is found of it, it will be made. "
+---
