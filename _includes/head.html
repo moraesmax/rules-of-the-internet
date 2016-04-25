@@ -1,0 +1,218 @@
+<head>
+  <link rel="apple-touch-icon" sizes="57x57" href="icons/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="icons/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="icons/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="icons/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="icons/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="icons/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="icons/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="icons/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="icons/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192"  href="icons/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="icons/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="icons/favicon-16x16.png">
+  <link rel="manifest" href="icons/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="icons/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta name="description" content="The Rules of the Internet. Never NEVER forget rule #20!" />
+  <meta name="keywords" content="Rules of the internet, internet, rules, rule 34, memes, 4chan, 9gag">
+
+  <meta name="theme-color" content="#F2F0D9">
+
+  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}"/>
+  <meta property="og:type" content="website"/>
+  <meta property="og:image" content="{{ '/img/facebook_share_background.jpg' | prepend: site.url }}"/>
+  <meta property="og:url" content="{% if page.url %}{{ page.url | prepend: site.url }}{% else %}{{ site.url }}{% endif %}"/>
+  <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.title }}{% endif %}"/>
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:url" content="{% if page.url %}{{ page.url | prepend: site.url }}{% else %}{{ site.url }}{% endif %}">
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.title }}{% endif %}">
+  <meta name="twitter:image" content="{{ '/img/iconoriginal.png' | prepend: site.url }}">
+
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta charset="utf-8">
+  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <link rel="stylesheet" href="{{ "/css/normalize.css" | prepend: site.url }}">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link href='https://fonts.googleapis.com/css?family=Pinyon+Script' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro' rel='stylesheet' type='text/css'>
+  <style media="screen">
+  html, body {
+    background-color: #F2F0D9;
+  }
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+  *, *::after, *::before {
+    outline: none;
+    box-sizing: border-box;
+  }
+  header {
+    text-align: center;
+    width: 100%;
+    display: block;
+    margin: 75px 0;
+  }
+  header .description {
+    text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 16px;
+    max-width: 650px;
+    right: 0;
+    left: 0;
+    margin: 0 auto 25px;
+  }
+  header .title {
+    display: block;
+    font-family: 'Pinyon Script', cursive;
+    font-size: 100px;
+    color: #333333;
+    margin-bottom: 25px;
+  }
+
+  .button {
+    color: #333333;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 18px;
+    display: inline-block;
+    margin-right: 20px;
+    text-decoration: none;
+    border: solid 2px #333333;
+    border-radius: 10px;
+    padding: 5px 10px;
+    transition: background-color 200ms ease-in-out, color 200ms ease-in-out;
+  }
+
+  .buttons .button:last-child {
+    margin-right: 0;
+  }
+
+  .button:hover {
+    color: #F2F0D9;
+    background-color: #333333;
+  }
+
+  .rules {
+    text-align: center;
+    width: 100%;
+  }
+
+  .rule {
+    display: block;
+    background-color: #333333;
+    border-radius: 10px;
+    padding: 20px 25px;
+    max-width: 650px;
+    right: 0;
+    left: 0;
+    margin: 0 auto 25px;
+  }
+  .rule .number {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 18px;
+    margin-bottom: 10px;
+    display: block;
+    color: #F2F0D9;
+    font-weight: bold;
+  }
+  .rule .text {
+    color: #F2F0D9;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+
+
+  .by-me-wrapper {
+    height: 170px;
+    overflow: hidden;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 170px;
+    z-index: 9999;
+  }
+  .by-me {
+    background-color: #a00000;
+    background-image: url("data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0ZWQgYnkgSWNvTW9vbi5pbyAtLT4KPCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHdpZHRoPSIxOCIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDE4IDMyIj4KPGc+CjwvZz4KCTxwYXRoIGQ9Ik01LjE0MyAyNi4yODZxMC0wLjcxNC0wLjUtMS4yMTR0LTEuMjE0LTAuNS0xLjIxNCAwLjUtMC41IDEuMjE0IDAuNSAxLjIxNCAxLjIxNCAwLjUgMS4yMTQtMC41IDAuNS0xLjIxNHpNNS4xNDMgNS43MTRxMC0wLjcxNC0wLjUtMS4yMTR0LTEuMjE0LTAuNS0xLjIxNCAwLjUtMC41IDEuMjE0IDAuNSAxLjIxNCAxLjIxNCAwLjUgMS4yMTQtMC41IDAuNS0xLjIxNHpNMTYuNTcxIDhxMC0wLjcxNC0wLjUtMS4yMTR0LTEuMjE0LTAuNS0xLjIxNCAwLjUtMC41IDEuMjE0IDAuNSAxLjIxNCAxLjIxNCAwLjUgMS4yMTQtMC41IDAuNS0xLjIxNHpNMTguMjg2IDhxMCAwLjkyOS0wLjQ2NCAxLjcyM3QtMS4yNSAxLjI0MXEtMC4wMzYgNS4xMjUtNC4wMzYgNy4zOTMtMS4yMTQgMC42NzktMy42MjUgMS40NDYtMi4yODYgMC43MTQtMy4wMjcgMS4yNjh0LTAuNzQxIDEuNzg2djAuNDY0cTAuNzg2IDAuNDQ2IDEuMjUgMS4yNDF0MC40NjQgMS43MjNxMCAxLjQyOS0xIDIuNDI5dC0yLjQyOSAxLTIuNDI5LTEtMS0yLjQyOXEwLTAuOTI5IDAuNDY0LTEuNzIzdDEuMjUtMS4yNDF2LTE0LjY0M3EtMC43ODYtMC40NDYtMS4yNS0xLjI0MXQtMC40NjQtMS43MjNxMC0xLjQyOSAxLTIuNDI5dDIuNDI5LTEgMi40MjkgMSAxIDIuNDI5cTAgMC45MjktMC40NjQgMS43MjN0LTEuMjUgMS4yNDF2OC44NzVxMC45NjQtMC40NjQgMi43NS0xLjAxOCAwLjk4Mi0wLjMwNCAxLjU2Mi0wLjUyN3QxLjI1OS0wLjU1NCAxLjA1NC0wLjcwNSAwLjcyMy0wLjkxMSAwLjUtMS4yNDEgMC4xNTItMS42MzRxLTAuNzg2LTAuNDQ2LTEuMjUtMS4yNDF0LTAuNDY0LTEuNzIzcTAtMS40MjkgMS0yLjQyOXQyLjQyOS0xIDIuNDI5IDEgMSAyLjQyOXoiIGZpbGw9IiNmZmZmZmYiIC8+Cjwvc3ZnPg==");
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 42px;
+    overflow: hidden;
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    white-space: nowrap;
+    width: 42px;
+  }
+  @media only screen and (min-width: 40.063em) {
+    .by-me {
+      background-color: #a00000;
+      background-image: none !important;
+      box-shadow: 0 0 10px 0 #888;
+      height: auto;
+      padding: 2px 0;
+      right: -55px;
+      top: 40px;
+      transform: rotate(45deg);
+      width: auto;
+    }
+  }
+  .by-me-link, .by-me-link:link, .by-me-link:visited, .by-me-link:hover, .by-me-link:focus, .by-me-link:active {
+    border: medium none;
+    display: block;
+    height: 100%;
+    text-decoration: none;
+  }
+  @media only screen and (min-width: 40.063em) {
+    .by-me-link, .by-me-link:link, .by-me-link:visited, .by-me-link:hover, .by-me-link:focus, .by-me-link:active {
+      border: 1px solid #fff;
+      color: #fff;
+      font-family: "Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif;
+      padding: 10px 50px;
+      text-align: center;
+      text-shadow: 0 0 5px #444;
+    }
+  }
+  .by-me-link:focus {
+    text-decoration: underline;
+  }
+  .by-me-text {
+    display: none;
+  }
+  @media only screen and (min-width: 40.063em) {
+    .by-me-text {
+      display: inline;
+    }
+  }
+  .by-me-dark {
+    background-image: url("data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0ZWQgYnkgSWNvTW9vbi5pbyAtLT4KPCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHdpZHRoPSIxOCIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDE4IDMyIj4KPGc+CjwvZz4KCTxwYXRoIGQ9Ik01LjE0MyAyNi4yODZxMC0wLjcxNC0wLjUtMS4yMTR0LTEuMjE0LTAuNS0xLjIxNCAwLjUtMC41IDEuMjE0IDAuNSAxLjIxNCAxLjIxNCAwLjUgMS4yMTQtMC41IDAuNS0xLjIxNHpNNS4xNDMgNS43MTRxMC0wLjcxNC0wLjUtMS4yMTR0LTEuMjE0LTAuNS0xLjIxNCAwLjUtMC41IDEuMjE0IDAuNSAxLjIxNCAxLjIxNCAwLjUgMS4yMTQtMC41IDAuNS0xLjIxNHpNMTYuNTcxIDhxMC0wLjcxNC0wLjUtMS4yMTR0LTEuMjE0LTAuNS0xLjIxNCAwLjUtMC41IDEuMjE0IDAuNSAxLjIxNCAxLjIxNCAwLjUgMS4yMTQtMC41IDAuNS0xLjIxNHpNMTguMjg2IDhxMCAwLjkyOS0wLjQ2NCAxLjcyM3QtMS4yNSAxLjI0MXEtMC4wMzYgNS4xMjUtNC4wMzYgNy4zOTMtMS4yMTQgMC42NzktMy42MjUgMS40NDYtMi4yODYgMC43MTQtMy4wMjcgMS4yNjh0LTAuNzQxIDEuNzg2djAuNDY0cTAuNzg2IDAuNDQ2IDEuMjUgMS4yNDF0MC40NjQgMS43MjNxMCAxLjQyOS0xIDIuNDI5dC0yLjQyOSAxLTIuNDI5LTEtMS0yLjQyOXEwLTAuOTI5IDAuNDY0LTEuNzIzdDEuMjUtMS4yNDF2LTE0LjY0M3EtMC43ODYtMC40NDYtMS4yNS0xLjI0MXQtMC40NjQtMS43MjNxMC0xLjQyOSAxLTIuNDI5dDIuNDI5LTEgMi40MjkgMSAxIDIuNDI5cTAgMC45MjktMC40NjQgMS43MjN0LTEuMjUgMS4yNDF2OC44NzVxMC45NjQtMC40NjQgMi43NS0xLjAxOCAwLjk4Mi0wLjMwNCAxLjU2Mi0wLjUyN3QxLjI1OS0wLjU1NCAxLjA1NC0wLjcwNSAwLjcyMy0wLjkxMSAwLjUtMS4yNDEgMC4xNTItMS42MzRxLTAuNzg2LTAuNDQ2LTEuMjUtMS4yNDF0LTAuNDY0LTEuNzIzcTAtMS40MjkgMS0yLjQyOXQyLjQyOS0xIDIuNDI5IDEgMSAyLjQyOXoiIGZpbGw9IiMwMDAwMDAiIC8+Cjwvc3ZnPgo=");
+  }
+  .by-me-left {
+    left: 0;
+    right: auto;
+  }
+  .by-me-left .by-me {
+    left: 5px;
+    right: auto;
+  }
+  @media only screen and (min-width: 40.063em) {
+    .by-me-left .by-me {
+      left: -55px;
+      right: auto;
+      transform: rotate(-45deg);
+    }
+  }
+  .by-me-fixed {
+    position: fixed;
+  }
+  </style>
+</head>

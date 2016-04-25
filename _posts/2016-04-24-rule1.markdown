@@ -1,0 +1,10 @@
+---
+layout: rule
+title:  "#Rule 1"
+date:   2016-04-24 19:00:00 -0300
+categories: rules
+permalink: rule/1
+rule-title: "#1"
+rule-text: "Do not talk about /b/."
+description: "Rule #1 - Do not talk about /b/."
+---
