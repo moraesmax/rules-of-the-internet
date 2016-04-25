@@ -1,0 +1,10 @@
+---
+layout: rule
+title:  "#Rule 5"
+date:   2016-04-24 18:59:50 -0300
+categories: rules
+permalink: rule/5
+rule-title: "#5"
+rule-text: "Anonymous never forgives."
+description: "Rule #5 - Anonymous never forgives."
+---

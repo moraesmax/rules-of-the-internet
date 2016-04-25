@@ -1,0 +1,10 @@
+---
+layout: rule
+title:  "#Rule 8"
+date:   2016-04-24 18:59:46 -0300
+categories: rules
+permalink: rule/8
+rule-title: "#8"
+rule-text: "There are no real rules about posting."
+description: "Rule #8 - There are no real rules about posting."
+---

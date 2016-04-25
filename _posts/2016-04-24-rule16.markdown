@@ -1,0 +1,10 @@
+---
+layout: rule
+title:  "#Rule 16"
+date:   2016-04-24 18:59:37 -0300
+categories: rules
+permalink: rule/16
+rule-title: "#16"
+rule-text: "If you fail in epic proportions, it may just become a winning failure."
+description: "Rule #16 - If you fail in epic proportions, it may just become a winning failure."
+---

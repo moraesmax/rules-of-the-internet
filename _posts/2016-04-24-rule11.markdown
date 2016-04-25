@@ -1,0 +1,10 @@
+---
+layout: rule
+title:  "#Rule 11"
+date:   2016-04-24 18:59:43 -0300
+categories: rules
+permalink: rule/11
+rule-title: "#11"
+rule-text: "All your carefully picked arguments can easily be ignored."
+description: "Rule #11 - All your carefully picked arguments can easily be ignored."
+---

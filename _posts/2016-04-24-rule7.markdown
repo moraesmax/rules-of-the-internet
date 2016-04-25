@@ -1,0 +1,10 @@
+---
+layout: rule
+title:  "#Rule 7"
+date:   2016-04-24 18:59:47 -0300
+categories: rules
+permalink: rule/7
+rule-title: "#7"
+rule-text: "Anonymous is still able to deliver."
+description: "Rule #7 - Anonymous is still able to deliver."
+---

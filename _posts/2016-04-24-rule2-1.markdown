@@ -1,0 +1,10 @@
+---
+layout: rule
+title:  "#Rule 2-1"
+date:   2016-04-24 18:59:58 -0300
+categories: rules
+permalink: rule/2-1
+rule-title: "#2-1"
+rule-text: "ALWAYS speak /c/."
+description: "Rule #2-1 - ALWAYS speak /c/."
+---

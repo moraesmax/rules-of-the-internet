@@ -1,0 +1,10 @@
+---
+layout: rule
+title:  "#Rule 20"
+date:   2016-04-24 18:59:33 -0300
+categories: rules
+permalink: rule/20
+rule-title: "#20"
+rule-text: "Nothing is to be taken seriously."
+description: "Rule #20 - Nothing is to be taken seriously."
+---

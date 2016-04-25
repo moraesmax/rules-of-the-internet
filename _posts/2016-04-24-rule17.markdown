@@ -1,0 +1,10 @@
+---
+layout: rule
+title:  "#Rule 17"
+date:   2016-04-24 18:59:36 -0300
+categories: rules
+permalink: rule/17
+rule-title: "#17"
+rule-text: "Every win fails eventually."
+description: "Rule #17 - Every win fails eventually."
+---

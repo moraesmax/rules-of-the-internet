@@ -1,0 +1,10 @@
+---
+layout: rule
+title:  "#Rule 2-5"
+date:   2016-04-24 18:59:54 -0300
+categories: rules
+permalink: rule/2-5
+rule-title: "#2-5"
+rule-text: "If anyone asks about /b/ you don't know anything."
+description: "Rule #2-5 - If anyone asks about /b/ you don't know anything."
+---

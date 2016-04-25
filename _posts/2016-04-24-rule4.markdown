@@ -1,0 +1,10 @@
+---
+layout: rule
+title:  "#Rule 4"
+date:   2016-04-24 18:59:51 -0300
+categories: rules
+permalink: rule/4
+rule-title: "#4"
+rule-text: "Anonymous is legion."
+description: "Rule #4 - Anonymous is legion."
+---

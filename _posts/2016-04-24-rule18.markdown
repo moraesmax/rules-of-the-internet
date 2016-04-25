@@ -1,0 +1,10 @@
+---
+layout: rule
+title:  "#Rule 18"
+date:   2016-04-24 18:59:35 -0300
+categories: rules
+permalink: rule/18
+rule-title: "#18"
+rule-text: "Everything that can be labeled, can be hated."
+description: "Rule #18 - Everything that can be labeled, can be hated."
+---

@@ -1,0 +1,10 @@
+---
+layout: rule
+title:  "#Rule 12"
+date:   2016-04-24 18:59:41 -0300
+categories: rules
+permalink: rule/12
+rule-title: "#12"
+rule-text: "Anything you say can and will be used against you."
+description: "Rule #12 - Anything you say can and will be used against you."
+---

@@ -1,0 +1,10 @@
+---
+layout: rule
+title:  "#Rule 11-1"
+date:   2016-04-24 18:59:42 -0300
+categories: rules
+permalink: rule/11-1
+rule-title: "#11-1"
+rule-text: "Anything you say, no matter how truthful or carefully picked, WILL be deemed wrong if the majority is against you."
+description: "Rule #11-1 - Anything you say, no matter how truthful or carefully picked, WILL be deemed wrong if the majority is against you."
+---

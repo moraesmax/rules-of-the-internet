@@ -1,0 +1,10 @@
+---
+layout: rule
+title:  "#Rule 2-2"
+date:   2016-04-24 18:59:57 -0300
+categories: rules
+permalink: rule/2-2
+rule-title: "#2-2"
+rule-text: "Remember 2nd place."
+description: "Rule #2-2 - Remember 2nd place."
+---

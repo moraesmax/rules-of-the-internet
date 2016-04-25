@@ -1,0 +1,10 @@
+---
+layout: rule
+title:  "#Rule 9"
+date:   2016-04-24 18:59:45 -0300
+categories: rules
+permalink: rule/9
+rule-title: "#9"
+rule-text: "There are no real rules about moderation either - enjoy your ban."
+description: "Rule #9 - There are no real rules about moderation either - enjoy your ban."
+---

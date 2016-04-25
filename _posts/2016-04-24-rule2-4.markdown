@@ -1,0 +1,10 @@
+---
+layout: rule
+title:  "#Rule 2-4"
+date:   2016-04-24 18:59:55 -0300
+categories: rules
+permalink: rule/2-4
+rule-title: "#2-4"
+rule-text: "AGAIN?! WHAT THE HECK!"
+description: "Rule #2-4 - AGAIN?! WHAT THE HECK!"
+---

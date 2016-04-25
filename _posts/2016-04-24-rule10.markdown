@@ -1,0 +1,10 @@
+---
+layout: rule
+title:  "#Rule 10"
+date:   2016-04-24 18:59:44 -0300
+categories: rules
+permalink: rule/10
+rule-title: "#10"
+rule-text: "If you enjoy any rival sites - DON'T!"
+description: "Rule #10 - If you enjoy any rival sites - DON'T!"
+---
